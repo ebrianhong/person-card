@@ -1,0 +1,13 @@
+#person-card {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  border: 0.1rem solid #000;
+  width: 30rem;
+  margin: 2.5rem;
+  padding: 2.5rem;
+}
+
+p {
+  text-align: left;
+}
